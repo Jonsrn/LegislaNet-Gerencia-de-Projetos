@@ -17,7 +17,8 @@
       "Bash(tree:*)",
       "Bash(dir:*)",
       "Bash(git checkout:*)",
-      "Bash(npx jest:*)"
+      "Bash(npx jest:*)",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []
