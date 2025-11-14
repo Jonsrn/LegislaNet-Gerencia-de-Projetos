@@ -171,6 +171,8 @@ LegislaNet/
 ├── .env.example                # Exemplo de variaveis de ambiente
 ├── package.json                # Dependencias Node.js
 └── README.md                   # Este arquivo
+└── changelog.md                # Documenta as mudanças implementadas ao longo do tempo
+└── plano_de_qualidade.md      # Documenta os padrões que devem ser adotados no projeto
 ```
 
 ---
@@ -532,6 +534,8 @@ flutter analyze
 - [Deployment](README-DEPLOYMENT.md) - Guia de implantacao em producao
 - [Security Upgrade](SECURITY_UPGRADE_README.md) - Atualizacoes de seguranca
 - [Performance](Apps/tablet_backend/PERFORMANCE_OPTIMIZATIONS.md) - Otimizacoes implementadas
+- [Changelog](changelog.md) - Mudanças implementadas
+- [Plano_de_Qualidade](plano_de_qualidade.md) - Manual de procedimentos seguidos no projeto. 
 
 ### Endpoints da API
 
